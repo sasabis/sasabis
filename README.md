@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é @sabi
+- 👍 Meu email de contato é sabrina.cristine.santana@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaSript e Scratch
